@@ -2,14 +2,12 @@
 
 ## Objetivos da aula:
 
-1. Criar um repositório local e adciona-lo ao nosso Github - remoto; []
+1. Criar um repositório local e adciona-lo ao nosso Github - remoto; [x]
 
-2. Clonar um repositório remoto para o nosso computador local; []
+2. Clonar um repositório remoto para o nosso computador local; [x]
 
-3. Fazer alterações >> Adicionar | Commitar | Enviar arquivos; []
+3. Fazer alterações >> Adicionar | Commitar | Enviar arquivos; [x]
 
-4. Criar uma nova Branch; []
+4. Criar uma nova Branch; [x]
 
-5. Realizar um Pull Request e Merge; []
-
-6. Criar nosso primeiro Fork; []
+5. Realizar um Fork e Pull Request; []
