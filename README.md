@@ -13,4 +13,3 @@
 5. Realizar um Pull Request e Merge; []
 
 6. Criar nosso primeiro Fork; []
-
